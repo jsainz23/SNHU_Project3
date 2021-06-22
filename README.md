@@ -1,0 +1,3 @@
+# SNHU_Project3
+CS 210 Project3 Corner Grocer
+This project was the most difficult of all but challenged my skills as a coder. I felt comfortable in the script that passed information back and forth from Python to C++. I also labeled my code throughout the project so I can easily pick up where I left off and make it easy for others to understand my thought process and read the code easily. I have little to no experience adding multiple languages in one project. If I had the opportunity to enhance this project, I would limit the amount of functions used and attempt to make the list into Python more efficient. 

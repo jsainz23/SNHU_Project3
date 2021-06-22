@@ -1,0 +1,15 @@
+﻿Source.obj : error LNK2001: unresolved external symbol __imp__PyImport_ImportModule
+Source.obj : error LNK2001: unresolved external symbol __imp__Py_BuildValue
+Source.obj : error LNK2001: unresolved external symbol __imp__Py_Finalize
+Source.obj : error LNK2001: unresolved external symbol __imp___Py_Dealloc
+Source.obj : error LNK2001: unresolved external symbol __imp__Py_Initialize
+Source.obj : error LNK2001: unresolved external symbol __imp__PyModule_GetDict
+Source.obj : error LNK2001: unresolved external symbol __imp__PyObject_GetAttrString
+Source.obj : error LNK2001: unresolved external symbol __imp__PyDict_GetItemString
+Source.obj : error LNK2001: unresolved external symbol __imp__PyObject_CallObject
+Source.obj : error LNK2001: unresolved external symbol __imp__PyImport_Import
+Source.obj : error LNK2001: unresolved external symbol __imp__PyCallable_Check
+Source.obj : error LNK2001: unresolved external symbol __imp___PyLong_AsInt
+Source.obj : error LNK2001: unresolved external symbol __imp__PyErr_Print
+Source.obj : error LNK2001: unresolved external symbol __imp__PyUnicode_FromString
+C:\Users\jsain\OneDrive\Desktop\Module_7\Project 3\Release\Project 3.exe : fatal error LNK1120: 14 unresolved externals
